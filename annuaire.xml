@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<annuaire xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///F:/Tp3/annuaire.xsd">
+	<personne>
+		<identite>
+			<nom>Achour</nom>
+			<prenom>Hamza</prenom>
+			<adresse>
+				<rue>25 avenue de 05 juillet 1962 </rue>
+				<cp>16000</cp>
+				<ville>Alger</ville>
+				<tel >071002500</tel>
+			</adresse>
+		</identite>
+	</personne>
+	<personne>
+		<identite>
+			<nom>AOmar</nom>
+			<prenom>Ahmed</prenom>
+			<adresse>
+				<rue>18 avenue du Ibn Badis</rue>
+				<cp>10000</cp>
+				<ville>Bouira</ville>
+				<tel>026942525</tel>
+				<tel >050252525</tel>
+			</adresse>
+		</identite>
+	</personne>
+</annuaire>
